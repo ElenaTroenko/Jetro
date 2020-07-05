@@ -46,7 +46,7 @@
   }
 }
 
-@media (max-width: 700px){
+@media (max-width: 700px) {
   .header__menu-btn {
     display: block;
   }
@@ -79,7 +79,7 @@
   }
 }
 
-@media (max-width: 490px){
+@media (max-width: 490px) {
   .header__list {
     width: 95%;
     margin-right: 14px;
